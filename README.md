@@ -4,5 +4,5 @@
 - [x] 2 Teksta lodziņi
 - [x] Pievienoju 2 tēlus
 - [x] Apģērbu kategorija
-- [ ] Drag drop
+- [x] Drag drop
 - [ ] Iekļauti divi slider elementi
