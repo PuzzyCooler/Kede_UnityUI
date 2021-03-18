@@ -1,6 +1,6 @@
 # Kede_UnityUI
 
-- [ ] Projekta uzsākšana
+- [x] Projekta uzsākšana
 - [ ] 2 Teksta lodziņi
 - [ ] Pievienoju 2 tēlus
 - [ ] Apģērbu kategorija
