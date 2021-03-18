@@ -20,7 +20,7 @@ public class vards : MonoBehaviour
     {
         teksts = ievadeslauks1.GetComponent<Text>().text;
         gads = ievadeslauks2.GetComponent<Text>().text;
-        tekstaAtteloshana.GetComponent<Text>().text = "Sveiks, " + teksts.ToUpper() + "tu esi" + gads + "Vecs!";
+        tekstaAtteloshana.GetComponent<Text>().text = "Sveiks, " + teksts.ToUpper() + "tu esi " + gads + " gadus vecs!";
     }
 
 }
